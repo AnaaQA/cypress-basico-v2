@@ -1,0 +1,11 @@
+{
+  "integrationFolder": "cypress/integration",
+  "fixturesFolder": "cypress/fixtures",
+  "videosFolder": "cypress/videos",
+  "screenshotsFolder": "cypress/screenshots",
+  "pluginsFile": false,
+  "viewportHeight": 880,
+  "viewportWidth": 1280,
+  "video": true,
+  "supportFile": "cypress/support"
+}
