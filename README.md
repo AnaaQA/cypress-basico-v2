@@ -1,5 +1,16 @@
-O que eu aprendi nesse curso!
+# Documentação do projeto
 
+Um bom projeto de testes automatizados deve possuir um mínimo de documentação, para que quem está chegando, possa contribuir.
+
+Aqui vai uma lista da documentação:
+
+- Uma breve descrição do que trata o projeto
+- Pré-requisitos (tais como Node.js, npm, git, etc.)
+- Passos para instalação das dependências
+- Passos para rodar os testes
+- Informação que for pertinente
+
+# O que eu aprendi nesse curso!
 
 Como configurar um projeto Cypress do zero ✔️
 
